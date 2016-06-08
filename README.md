@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.org/andrewbroekman/Functional-Root-Solver.svg?branch=master)](https://travis-ci.org/andrewbroekman/Functional-Root-Solver)
 # Functional Programming Exercises #
 
 This repository shows an implementation of a functional root solver in Java 8. This was done as part of additional exam
